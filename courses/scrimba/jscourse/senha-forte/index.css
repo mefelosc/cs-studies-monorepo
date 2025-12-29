@@ -1,0 +1,86 @@
+body {
+    margin: 70px 50px;
+    background-color: #1F2937;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+#head {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+    margin: 0px;
+}
+
+
+h1 {
+    color: white;
+    font-weight: 800;
+}
+
+p {
+    color: lightgray;
+    font-size: 19px;
+    margin: 0;
+}
+
+button {
+    background-color: #10B981;
+    padding: 10px 15px;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    margin-top: 60px;
+}
+
+#green {
+    color: #4ADF86;
+}
+
+#password {
+    margin: 30px 0px;
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+    text-align: center;
+    flex-wrap: wrap;   
+    gap: 1rem;
+}
+
+
+#passwordOne {
+    background-color: #273549;
+    margin: 0px 0px;
+    max-width: 350px;
+    padding: 12px 20px;
+    border-radius: 6px;
+    color: #55F991;
+    
+}
+
+#passwordTwo {
+    background-color: #273549;
+    margin: 0px 0px 0px 20px;
+    max-width: 350px;
+    padding: 12px 20px;
+    border-radius: 6px;
+    color: #55F991;
+}
+
+#divider {
+    height: 1px; 
+    background: rgba(128,128,128, 0.1);
+    margin: 2rem 0; 
+    border: none;
+    max-width: 370px;
+}
+
+@media (max-width: 700px) {
+  .row {
+    flex-direction: column;  
+  }
+  #passwordTwo {
+    margin: 0;
+  }
+}
