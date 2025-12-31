@@ -4,6 +4,10 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 *.log
+.context-md
+
+# --- 📁 Agentes ---
+.agent/
 
 # --- 💻 Editores de Código (VS Code / JetBrains) ---
 .vscode/
