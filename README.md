@@ -24,7 +24,7 @@ O objetivo é manter um histórico organizado do meu desenvolvimento, separando 
 Onde o estudo vira produto. Aplicações práticas e portfólio.
 - **`fullstack/`**: Aplicações completas (Client + Server). Ex: SvelteKit.
 - **`frontend/`**: Interfaces estáticas, Landing Pages e estudos de UI/UX.
-- **`backend/`**: APIs REST, interação com Bancos de Dados e serviços.
+- **`backend/`**: APIs, interação com Bancos de Dados e serviços.
 - **`scripts/`**: Bots de automação, Web Scrapers e utilitários.
 
 ### 2. 🛡️ Security & Infra (`/security`)
@@ -41,7 +41,7 @@ Ferramentas e documentação voltadas para Suporte Técnico.
 ### 4. 🧠 CS Core (`/cs-core`)
 A base teórica da Ciência da Computação.
 - **`algorithms/`**: Implementação de algoritmos clássicos e complexidade.
-- **`challenges/`**: Soluções de desafios lógicos (LeetCode).
+- **`challenges/`**: Soluções de desafios lógicos.
 
 ### 5. 📚 Academic & Learning
 - **`/university`**: Projetos oficiais e atividades da graduação.
@@ -52,7 +52,7 @@ A base teórica da Ciência da Computação.
 
 ## ⚠️ Nota
 Este repositório é um ambiente de aprendizado contínuo ("Playground").
-Projetos maiores e destinados a produção podem ser migrados para repositórios individuais conforme amadurecem.
+Projetos maiores e destinados a produção serão migrados para repositórios individuais conforme amadurecem.
 
 ---
-*Copyright © 2025 Carlos Felipe*
+*Copyright © 2026 Carlos Felipe*
