@@ -4,7 +4,8 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 *.log
-.context-md
+.context.md
+ROADMAP.md
 
 # --- 📁 Agentes ---
 .agent/
