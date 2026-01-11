@@ -9,6 +9,8 @@ ROADMAP.md
 
 # --- 📁 Agentes ---
 .agent/
+agents/
+.github/agents/
 
 # --- 💻 Editores de Código (VS Code / JetBrains) ---
 .vscode/
