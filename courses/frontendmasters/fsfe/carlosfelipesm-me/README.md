@@ -1,2 +1,2 @@
 # carlosfelipesm.me
-A full stack project with frontendmasters
+Um projeto fullstack feito no Frontend Masters, usando Node, Express. 
