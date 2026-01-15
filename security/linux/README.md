@@ -9,7 +9,3 @@ O objetivo desta seção é entender como automatizar tarefas, interagir com o s
 - **Conceitos Básicos**: Criação de arquivos, permissões (`chmod`), e execução.
 - **Automação**: Scripts para verificar status de arquivos e serviços.
 - **Rede**: Verificação de conectividade (ping, curl).
-
-## Exemplos
-
-Para ver exemplos práticos de código, consulte o arquivo [examples.md](./examples.md).
