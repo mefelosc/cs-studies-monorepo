@@ -18,5 +18,5 @@ function binarySearch(arr, target) {
 
 const fruits = ["maçã", "banana", "cereja", "figo", "laranja", "manga", "pera"];
 
-console.log(binarySearch(fruits, "uva")); 
-console.log(binarySearch(fruits, "figo")); 
+console.log(`Nós temos o seguinte item em estoque: ${binarySearch(fruits, "pera")}`); 
+console.log(`Nós temos o seguinte item em estoque: ${binarySearch(fruits, "figo")}`); 
