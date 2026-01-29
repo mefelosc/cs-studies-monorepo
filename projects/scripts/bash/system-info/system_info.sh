@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Simple System Information Script
-# Author: GitHub Copilot
+
 
 echo "=========================================="
 echo "      SYSTEM INFORMATION REPORT"
