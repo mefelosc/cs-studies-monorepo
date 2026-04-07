@@ -25,6 +25,7 @@ agents/
 .env.*.local
 *.pem
 *.key
+.openclaude-profile.json
 
 # --- 🐍 Python ---
 __pycache__/
